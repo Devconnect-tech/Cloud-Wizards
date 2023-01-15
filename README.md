@@ -4,14 +4,6 @@ Welcome to the Cloud Computing Learning Resources! Here you will find a curated 
 
 ## GCP Resources
 
-- **Free**
-  - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/courses/gcp-fundamentals-core-infrastructure)
-  - [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/courses/gcp-big-data-ml-fundamentals)
-- **Paid**
-  - [Google Cloud Professional Cloud Architect](https://cloud.google.com/training/certification/professional-cloud-architect)
-  - [Google Cloud Professional Cloud Developer](https://cloud.google.com/training/certification/professional-cloud-developer)
-## GCP Resources
-
 Courses:
 - [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/courses/gcp-fundamentals) (Free)
 - [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/courses/gcp-big-data-ml-fundamentals) (Free)

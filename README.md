@@ -10,15 +10,49 @@ Welcome to the Cloud Computing Learning Resources! Here you will find a curated 
 - **Paid**
   - [Google Cloud Professional Cloud Architect](https://cloud.google.com/training/certification/professional-cloud-architect)
   - [Google Cloud Professional Cloud Developer](https://cloud.google.com/training/certification/professional-cloud-developer)
+## GCP Resources
+
+Courses:
+- [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/courses/gcp-fundamentals) (Free)
+- [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/courses/gcp-big-data-ml-fundamentals) (Free)
+- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/courses/gcp-fundamentals) (Free)
+- [Google Cloud Platform Fundamentals: Data Engineering](https://www.coursera.org/courses/gcp-data-engineering) (Free)
+- [Google Cloud Platform Fundamentals: Deployment and Development](https://www.coursera.org/courses/gcp-deployment-development) (Free)
+
+Books:
+- [Google Cloud Platform for Architects: Design and manage powerful cloud solutions](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1484254451) (Paid)
+- [Google Cloud Platform in Action](https://www.manning.com/books/google-cloud-platform-in-action) (Paid)
+- [Mastering Google Cloud Infrastructure](https://www.packtpub.com/cloud-networking/mastering-google-cloud-infrastructure) (Paid)
+
+Blogs:
+- [Google Cloud Platform Blog](https://cloud.google.com/blog/) (Free)
+- [Google Cloud Platform Community](https://cloud.google.com/community/) (Free)
+- [Google Cloud Platform on Medium](https://medium.com/google-cloud) (Free)
 
 ## AWS Resources
 
-- **Free**
-  - [AWS Fundamentals for System Administrators](https://aws.amazon.com/training/course-descriptions/fundamentals-system-administrators/)
-  - [AWS Technical Essentials](https://aws.amazon.com/training/course-descriptions/technical-essentials/)
-- **Paid**
-  - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-  - [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+Courses:
+- [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/courses/aws-fundamentals) (Free)
+- [AWS Technical Essentials](https://www.aws.training/learningobject/curriculum?id=20297) (Free)
+- [Architecting on AWS](https://www.aws.training/learningobject/curriculum?id=17282) (Free)
+- [AWS Security Fundamentals](https://www.aws.training/learningobject/curriculum?id=17283) (Free)
+- [AWS Big Data Fundamentals](https://www.aws.training/learningobject/curriculum?id=17284) (Free)
+
+Books:
+- [AWS Architecture](https://www.awsarchitecture.com/) (Paid)
+- [AWS Administration](https://www.awsadministrator.com/) (Paid)
+- [AWS Security](https://wwwawssecurity.com/) (Paid)
+- [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action) (Paid)
+- [AWS Certified Solutions Architect Official Study Guide](https://www.amazon.com/AWS-Certified-Solutions-Architect-Official/dp/1119138558) (Paid)
+- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/) (Free)
+- [AWS Best Practices](https://aws.amazon.com/compliance/shared-responsibility-model/) (Free)
+- [AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf) (Free)
+
+Blogs:
+- [AWS Blog](https://aws.amazon.com/blogs/) (Free)
+- [AWS News Blog](https://aws.amazon.com/news/) (Free)
+- [AWS Security Blog](https://aws.amazon.com/security/) (Free)
+
 
 ## Azure Resources
 
@@ -45,24 +79,20 @@ Blogs:
 - [Azure Friday](https://azure.com/friday) (Free)
 - [Azure Tips and Tricks](https://azure.com/tips) (Free)
 
-Videos:
-- [Azure Fundamentals](https://www.youtube.com/watch?v=R-f-kdYQiLw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) (Free)
-- [Azure Administrator](https://www.youtube.com/watch?v=2uOgDYKdGc8&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne
 
-Videos:
-
-- Azure Developer (Free)
-- Azure Security Engineer (Free)
-- Azure Solutions Architect (Free)
-- Azure DevOps Engineer (Free)
-- Azure Architecture Center (Free)
-- Azure Friday (Free)
-- Azure IoT Show (Free)
-- Azure DevOps (Free)
-- Azure Cosmos DB (Free)
-- Azure Machine Learning (Free)
-- Azure SQL Database (Free)
-- Azure Databricks (Free)
-- Azure Kubernetes Service (Free)
-- Azure Container Instances (Free)
-- Azure App Service (Free)
+## Videos:
+- [Azure Developer (Free)](https://azure.com/developer)
+- [Azure Security Engineer (Free)](https://azure.com/security)
+- [Azure Solutions Architect (Free)](https://azure.com/architect)
+- [Azure DevOps Engineer (Free)](https://azure.com/devops)
+- [Azure Architecture Center (Free)](https://azure.com/architecture)
+- [Azure Friday (Free)](https://azurefriday.com/)
+- [Azure IoT Show (Free)](https://azure.com/iot)
+- [Azure DevOps (Free)](https://azure.com/devops)
+- [Azure Cosmos DB (Free)](https://azure.com/cosmosdb)
+- [Azure Machine Learning (Free)](https://azure.com/machinelearning)
+- [Azure SQL Database (Free)](https://azure.com/sql)
+- [Azure Databricks (Free)](https://azure.com/databricks)
+- [Azure Kubernetes Service (Free)](https://azure.com/kubernetes)
+- [Azure Container Instances (Free)](https://azure.com/containerinstances)
+- [Azure App Service (Free)](https://azure.com/appservice)

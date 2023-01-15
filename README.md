@@ -72,7 +72,7 @@ Blogs:
 - [Azure Tips and Tricks](https://azure.com/tips) (Free)
 
 
-## Videos:
+Videos:
 - [Azure Developer (Free)](https://azure.com/developer)
 - [Azure Security Engineer (Free)](https://azure.com/security)
 - [Azure Solutions Architect (Free)](https://azure.com/architect)
